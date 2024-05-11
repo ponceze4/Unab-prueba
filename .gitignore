@@ -1,1 +1,2 @@
 *.text
+#'*.text' hace que no aparezca el arcivo. al 'git status' no hace el seguimiento.
